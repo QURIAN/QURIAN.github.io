@@ -1,2 +1,2 @@
 # QURIAN.github.io
-QURIAN Blog
+QURIAN's Blog
